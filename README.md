@@ -1,6 +1,8 @@
 # Perceptron Algorithm
 implement the  single layer neural networks on Perceptrons and Sigmoid Neurons
 
+using : cifat10 dataset , sigmoid activation , gradient descet method , perceptron algorithms, keras 
+
 The Perceptron is inspired by the information processing of a single neural cell called a neuron.
 A neuron accepts input signals via its dendrites, which pass the electrical signal down to the cell body.
 we use gradient descent and sigmoid activate function on this implementation 
